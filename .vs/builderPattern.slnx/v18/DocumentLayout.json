@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CCTech\\C#\\builderPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|d:\\cctech\\c#\\builderpattern\\builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|solutionrelative:builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|d:\\cctech\\c#\\builderpattern\\builderpattern\\directors\\computerdirectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|solutionrelative:builderpattern\\directors\\computerdirectors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|d:\\cctech\\c#\\builderpattern\\builderpattern\\builders\\computerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|solutionrelative:builderpattern\\builders\\computerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|d:\\cctech\\c#\\builderpattern\\builderpattern\\builders\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|solutionrelative:builderpattern\\builders\\icomputerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|d:\\cctech\\c#\\builderpattern\\builderpattern\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7002F5DE-D1E6-49F3-A677-00F719C38792}|builderPattern\\builderPattern.csproj|solutionrelative:builderpattern\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputerDirectors.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Directors\\ComputerDirectors.cs",
+              "RelativeDocumentMoniker": "builderPattern\\Directors\\ComputerDirectors.cs",
+              "ToolTip": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Directors\\ComputerDirectors.cs",
+              "RelativeToolTip": "builderPattern\\Directors\\ComputerDirectors.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T05:55:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComputerBuilder.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Builders\\ComputerBuilder.cs",
+              "RelativeDocumentMoniker": "builderPattern\\Builders\\ComputerBuilder.cs",
+              "ToolTip": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Builders\\ComputerBuilder.cs",
+              "RelativeToolTip": "builderPattern\\Builders\\ComputerBuilder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T05:54:08.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IComputerBuilder.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Builders\\IComputerBuilder.cs",
+              "RelativeDocumentMoniker": "builderPattern\\Builders\\IComputerBuilder.cs",
+              "ToolTip": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Builders\\IComputerBuilder.cs",
+              "RelativeToolTip": "builderPattern\\Builders\\IComputerBuilder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T05:51:37.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Models\\Computer.cs",
+              "RelativeDocumentMoniker": "builderPattern\\Models\\Computer.cs",
+              "ToolTip": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Models\\Computer.cs",
+              "RelativeToolTip": "builderPattern\\Models\\Computer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T05:49:40.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "builderPattern\\Program.cs",
+              "ToolTip": "D:\\CCTech\\C#\\builderPattern\\builderPattern\\Program.cs",
+              "RelativeToolTip": "builderPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T05:47:58.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
